@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feengeequ.cheerfulcoders.se/sitemap.xml
